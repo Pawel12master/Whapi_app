@@ -1,5 +1,5 @@
 # Whapi_app 
-Social media app. Uploading imgs, saving searching -> https://idyllic-kringle-633e45.netlify.app/login
+Social media app. Uploading imgs, saving searching -> https://idyllic-kringle-633e45.netlify.app/login <br></br>
 Front: React using Tailwind
 Backend: Sanity
 Due to google auth change, sign in may cause some problems.
