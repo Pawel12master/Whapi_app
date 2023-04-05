@@ -10,7 +10,7 @@ import { client } from "../client";
 function Login() {
   const navigate = useNavigate();
   const clientId =
-    "754016536312-49veshofm95ncdkvtl4vohqjl4suj3ph.apps.googleusercontent.com";
+    "***";
   useEffect(() => {
     gapi.load("client:auth2", () => {
       gapi.auth2.init({ clientId: clientId });
